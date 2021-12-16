@@ -93,9 +93,10 @@ GameObject:
   - component: {fileID: 2639304441988204045}
   - component: {fileID: 7986756680636150160}
   - component: {fileID: -8680641976091212126}
+  - component: {fileID: 4654452284320267493}
   m_Layer: 0
   m_Name: Proyectil
-  m_TagString: Untagged
+  m_TagString: proyectil
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -169,6 +170,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &4654452284320267493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5560155633751947285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f61106100a76345a83111237d08612, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5560155633868298320
 GameObject:
   m_ObjectHideFlags: 0
